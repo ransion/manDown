@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:d:\code\h5\manDown/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\code\h5\manDown/.actionScriptProperties.
+1,0.00,,0,output path:d:/code/h5/manDown/bin/h5/
+1,0.00,,0,Main Class:d:/code/h5/manDown/src/Main.as
+1,0.00,,0,output file:Main
+1,0.00,,0,compilerSourcePath d:/code/h5/manDown/libs/laya/src/
+
+1,0.00,,0,Compile Path:d:/code/h5/manDown/src/
+
+1,0.00,,0,Compile Path:d:/code/h5/manDown/libs/laya/src/
+
+1,0.00,d:/code/h5/manDown/src,0,Collect
+1,0.00,d:/code/h5/manDown/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.68,,0,Disable Flash3D d:/code/h5/manDown/src/Main.as
+12,89.68,d:/code/h5/manDown/bin/h5/Main.max.js,1214211,
+11,89.68,d:/code/h5/manDown/bin/h5/Main.max.html,887,
+******************************************************************************
+14,89.68,,0,
